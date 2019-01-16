@@ -1,7 +1,7 @@
 {
-  "name": "embark-solium",
+  "name": "embark-plugin",
   "version": "0.0.1",
-  "description": "Official Solium Plugin for the Embark Framework",
+  "description": "Embark plugin test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,13 +19,12 @@
     "plugin",
     "smart-contract"
   ],
-  "author": "Raghav Dua <duaraghav8@gmail.com>",
+  "author": "Eric Mastro <eric.mastro@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^4.13.1"
   },
   "dependencies": {
-    "solium": "1.1.0",
-    "text-table": "^0.2.0"
+    "lodash": "^4.17.11"
   }
 }
