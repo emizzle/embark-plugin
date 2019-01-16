@@ -25,6 +25,7 @@
     "eslint": "^4.13.1"
   },
   "dependencies": {
+    "eth-contract-class": "0.0.12",
     "lodash": "^4.17.11"
   }
 }
